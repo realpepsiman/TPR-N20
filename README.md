@@ -9,6 +9,7 @@ The script creates a new fasta file with the suffix _filtered.fasta, which only 
 The Levenshtein python package
 
 # Usage
+Download 'aptamer_filter.py' from this page.
 In the command prompt, type:
 `$python <filename.fastq> <threshold>`
 
